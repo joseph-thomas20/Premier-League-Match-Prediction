@@ -7,7 +7,7 @@ Project Steps:
 - I then developed an initial Random Forest Model using Scikit-Learn and measured the error
 - The model was improved by adding predictor variables, implementing rolling averages and combining both home and away results over the two seasons
 
-The final model had an accuracy of #65.11%.
+The final model had an accuracy of 65.11%.
 The nature of sports, especially football make predicting the outcome of matches difficult, so I was pleased with this precision
 
 A few ideas to improve the precision:
